@@ -1,0 +1,27 @@
+{
+  "name": "hangout",
+  "version": "1.0.0",
+  "description": "webapp vagas bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osamuca/hangout.git"
+  },
+  "keywords": [
+    "webapp",
+    "vagas",
+    "bootstrap"
+  ],
+  "author": "Samuel Fonseca Verneck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osamuca/hangout/issues"
+  },
+  "homepage": "https://github.com/osamuca/hangout#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6"
+  }
+}
